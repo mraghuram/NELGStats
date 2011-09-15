@@ -6,6 +6,7 @@
 //  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
 //
 
+// This better Work
 #import "NGAppDelegate.h"
 
 @implementation NGAppDelegate
